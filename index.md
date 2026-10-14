@@ -8,11 +8,19 @@ I am a CISC7204 student building reproducible, evidence-led data analysis projec
 
 [Open the project repository](https://github.com/CheangChiIo/data-science-project)
 
+## Key takeaway
+
+**Key takeaway:** The exploratory plots suggest that living area and location/income-related variables are the most useful starting points for explaining the target price in this dataset; this is an association, not a causal claim.
+
 ## Visual evidence
 
 ![Housing price distribution](visualizations/price_distribution.png)
 
+*Figure 1. Distribution of the target house-price measure.*
+
 ![Living area and housing price](visualizations/living_area_price.png)
+
+*Figure 2. Association between living area and the target house-price measure.*
 
 ## Skills
 
