@@ -19,4 +19,4 @@ The portfolio page includes `visualizations/price_distribution.png` and
 
 Project repository: https://github.com/CheangChiIo/data-science-project
 
-The portfolio page is prepared for GitHub Pages publication and links to the public project repository.
+The portfolio page is published through GitHub Pages and links to the public project repository.
