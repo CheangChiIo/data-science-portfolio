@@ -20,4 +20,4 @@ Python, pandas, NumPy, Matplotlib, scikit-learn, data cleaning, exploratory visu
 
 ## Publication status
 
-This portfolio is prepared for GitHub Pages publication and links to the public project repository.
+This portfolio is published through GitHub Pages and links to the public project repository.
