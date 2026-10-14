@@ -1,0 +1,4 @@
+Did I use an AI LLM? Yes
+Exact LLM used: OpenAI Codex (GPT-5-based Codex agent in ChatGPT)
+Web Browser used: Codex In-app Browser
+Use: planning, code scaffolding, local file organisation, and review; the student remains responsible for checking, editing, and submitting the work.
